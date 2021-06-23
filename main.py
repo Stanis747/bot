@@ -8,7 +8,7 @@ import telebot
 
 # If modifying these scopes, delete the file token.json.
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
-bot = telebot.TeleBot("1812696815:AAGJENyiX4g_YjAefo8I1FJ0_6ZJFShgUH0")
+bot = telebot.TeleBot("880940856:AAEmzUXVtMsES2xb6N2SK0UXDw6gYrhjHJQ")
 data = []
 
 # The ID and range of a sample spreadsheet.
